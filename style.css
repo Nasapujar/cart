@@ -1,0 +1,99 @@
+.first{
+    /* color: #000; */
+    width: 30%;
+    height: 20%;
+    border: 2px SOLID gray;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.offer1{
+  padding-left: 300px;
+  padding-bottom: 10px;
+  position: absolute;
+top: 10px;
+align-items: center;
+font-size: 18px;
+}
+.Second{
+     color: #000;
+ width: 30%;
+    height: 20%;
+    border: 2px SOLID green;
+    padding-top: 10px;
+    padding-left: 30px;
+} 
+.offer2{
+  padding-left: 300px;
+  /* padding-bottom: 100px; */
+  padding-top: 80px;
+  position: absolute;
+top: 50px;
+align-items: center;
+font-size: 18px;
+}
+h3{ 
+     color: green;
+    padding-left: 280px;
+    padding-top: 60px;
+    top: 40px;
+    position: absolute;
+    /* margin-left: 100%; */
+    /* margin-bottom: 100%; */
+
+    align-items: center;
+}
+.middle
+{
+align-items: center;
+ color:gray; 
+ text-decoration: line-through;
+ padding-left: 180px;
+padding-bottom: 10px;
+    /* top: 80%; */
+    /* bottom: 30px; */
+    /* margin-top: 10px; */
+    
+}
+
+.dropdown{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    
+}
+.third{
+    /* color: #000; */
+    width: 30%;
+    height: 20%;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.offer3{
+  padding-left: 300px;
+  padding-bottom: 10px;
+  position: absolute;
+bottom: 180px;
+align-items: center;
+font-size: 18px;
+}
+
+.end{
+    color: green;
+    padding-left: 10px;
+
+}
+.cart{
+    background-color:lightseagreen;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 173px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
